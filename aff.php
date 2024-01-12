@@ -16,6 +16,7 @@
       <th>Âge</th>
       <th>Nationalité</th>
       <th>Modifier</th>
+      <th>Ce que j'ai ajouter</th>
     </tr>
   </thead>
   <tbody>
